@@ -335,6 +335,10 @@ nav ul {
     margin: 0;
 }
 
+nav ul li a {
+    font-size: 14px;
+}
+
 .hero {
     display: flex;
     flex-direction: column-reverse;
