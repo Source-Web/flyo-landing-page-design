@@ -41,7 +41,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Flyo Landing Page](https://www.frontendmentor.io/solutions/fylo-landing-page-with-two-column-layout-f8c9b-wgl0)
-- Live Site URL: [Flyo Landing Page](https://source-web.github.io/flyo-landing-page/)
+- Live Site URL: [Flyo Landing Page](https://source-web.github.io/flyo-landing-page-design/)
 
 ## My process
 
